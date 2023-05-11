@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+	<meta charset="UTF-8" />
+	<title>Titre de la page</title>
+</head>
+<body>
+	<h1>Bonjour et bievenu</h1>
+
+	<p>Ceci est le début j'espère que ça fonctionnera
+	Voyons un peu la suite</p>
+
+	<h2>catégorie A</h2>
+	<p>Le saut de paragraphe<strong> fonctionne</strong> t-il?</p>
+
+	<p>Apparement ça devrait le faire</p>
+
+	<ol>
+		<li>PDT</li>
+		<li>Soupe</li>
+		<li>Fraises</li>
+
+</body>
+</html>
