@@ -1,0 +1,3 @@
+interface utilisateur
+Page d'acceuil présentation du refuge en resumé
+onglets Accueil, histoire (sous onglet création du refuge/fondateurs), chevaux (présentation nom/age/histoire/Sytème de classement), Bénévoles (inscription, planning participation)
